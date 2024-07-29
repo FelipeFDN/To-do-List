@@ -13,3 +13,6 @@ Está dividido em
 
 # Frontend
 - ReactJS
+
+# Banco de Dados
+- Postgres
